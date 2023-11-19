@@ -3,3 +3,4 @@
 – Implementing and extending various oops concept
 – Use the arrow keys to control the snake to reach its food, each time the snake eats the food, it grows.
 – If the snake touches the edge of the screen or itself, the game ends.
+Deployed link-https://shikhasharma1111.github.io/Snake_Game/
